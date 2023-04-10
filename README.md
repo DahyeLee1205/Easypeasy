@@ -47,7 +47,9 @@
  
 
 ### :pushpin: 전자결재 메인
-[1 전자결재 메인]<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230837209-e2fb141c-f5b1-4d0a-a003-511738d6af49.png"><br>
+[1 전자결재 메인]
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230837209-e2fb141c-f5b1-4d0a-a003-511738d6af49.png"><br>
 - 구현 기능 설명
    - 상단 : 결재 대기문서 조회, 로그인한 사원이 아직 결재 혹은 반려하지 않은 문서목록(최신순, 5개)
    - 하단 : 기안 진행문서 조회, 로그인한 사원이 작성한 문서 상태가 진행중인 문서 목록(최신순, 5개)
@@ -70,7 +72,9 @@
 
 
 ### :pushpin: 기안문서 작성하기
-[2 새 결재진행] <img width="800" alt="결재문서작성" src="https://user-images.githubusercontent.com/106331443/230839549-a7c18b7c-1eed-4cdb-9b02-cd43cdf2fdbd.png">
+[2 새 결재진행] 
+<br>
+<img width="800" alt="결재문서작성" src="https://user-images.githubusercontent.com/106331443/230839549-a7c18b7c-1eed-4cdb-9b02-cd43cdf2fdbd.png">
 <br>
 - 구현 기능 설명
    - '새 결재 진행' 버튼 클릭 시 문서양식 선택하는 modal 띄워짐
@@ -91,7 +95,9 @@
 
 
 ### :pushpin: 결재/참조자 선택
-[3  결재/참조자 선택] <img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230845189-d403b667-1025-4622-84d3-aaa7955766c9.png">
+[3  결재/참조자 선택] 
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230845189-d403b667-1025-4622-84d3-aaa7955766c9.png">
 <br>
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230845737-090af50d-890a-4474-8f3e-7a7bea09cfc3.png">
 <br>
@@ -105,7 +111,9 @@
 
 
 ### :pushpin: 개인/ 부서문서함 목록
-[4-1 개인문서함]<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230847154-085f1a91-99d7-45a3-a574-e945f07b031e.png">
+[4-1 개인문서함]
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230847154-085f1a91-99d7-45a3-a574-e945f07b031e.png">
 <br>
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230847297-75d648cf-7bf7-4c7d-96d5-8f09aca89912.png">
 <br>
@@ -123,7 +131,9 @@
    - 결재 상태별 조회가능
    - 검색, 페이징 기능
    <br><br>
-[4-2 부서문서함]<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230856841-b53f818b-cef5-463a-9f2b-0e51c606e4e5.png">
+[4-2 부서문서함]
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230856841-b53f818b-cef5-463a-9f2b-0e51c606e4e5.png">
 <br>
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230856938-18ba7dca-c43d-464b-8482-f308ad925376.png">
 <br>
@@ -134,7 +144,9 @@
 
 
 ### :pushpin: 기안문서 수정/삭제
-[5 기안문서 수정 및 삭제]<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230865672-b88c190a-856a-4b9d-a86a-cc79a983ed08.png">
+[5 기안문서 수정 및 삭제]
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230865672-b88c190a-856a-4b9d-a86a-cc79a983ed08.png">
 <br>
 - 구현 기능 설명
    - 수정 클릭 시 해당문서의 문서번호와 내용을 그대로 select(기존 결재선과 첨부파일은 delete되고 사용자가 입력한 값이 insert됨)
@@ -144,7 +156,9 @@
 
 
 ### :pushpin: 결재/ 반려하기
-[6 결재하기/ 반려하기]<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230865955-d1e67394-1ddb-48bd-83c9-804d8096592d.png">
+[6 결재하기/ 반려하기]
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230865955-d1e67394-1ddb-48bd-83c9-804d8096592d.png">
 <br>
 <img width="725" alt="image" src="https://user-images.githubusercontent.com/106331443/230866039-02f28cd9-d65c-4f8f-bb24-455b7461cd98.png">
 <img width="718" alt="image" src="https://user-images.githubusercontent.com/106331443/230870326-e71f4902-307a-42b7-95ae-53acc27d7a60.png">
@@ -158,7 +172,9 @@
 
 
 ### :pushpin: 임시저장
-[7 임시저장]<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230872582-f4d786e1-f33b-460f-ba23-c70ef6fb3b95.png">
+[7 임시저장]
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230872582-f4d786e1-f33b-460f-ba23-c70ef6fb3b95.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230872762-9a81605c-749c-4cd0-83b7-75c14fff8de9.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230872888-d4e9d215-c285-4b4f-9f1c-e2c070ff68df.png">
 <br>
@@ -171,7 +187,9 @@
 
 
 ### :pushpin: 상태완료문서 재 기안
-[8 문서재기안]<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230871200-375b592b-3351-4ce3-b1ab-dac701fd1581.png">
+[8 문서재기안]
+<br>
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230871200-375b592b-3351-4ce3-b1ab-dac701fd1581.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/106331443/230915694-f15c4b57-8539-4d34-bcd6-4ca8b010cc42.png">
 <br>
 - 구현 기능 설명
